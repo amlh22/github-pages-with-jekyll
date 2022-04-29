@@ -1,6 +1,6 @@
 ---
 title: "Welcome to this blog"
-date: 29 April 2022
+date: 2022-04-29
 ---
 
 Lorem ipsum dolar
